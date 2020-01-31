@@ -13,6 +13,7 @@ background: white;
 overflow: auto;  
 font-family: 'Denk One',sans-serif;
 }
+
 header h1 {
     font-family: 'Denk One',sans-serif;
     float: left;
@@ -24,7 +25,7 @@ header h1 {
 header nav {
     float: right;
     width: 285px;
-    
+    margin-top: 25px;
 }
 main {
     background: white;
